@@ -173,8 +173,8 @@
 		
 	$arr_image = array("jpg","png","gif");
 
-	$accesskey = "LTAIDlXKsQqqOdbh";
-	$secret = "sw7BXRWuvnMaBTGssdiI15AQNDdLkO";
+	$accesskey = "x";
+	$secret = "x";
 
 
 	$android = "http://f2.market.xiaomi.com/download/AppStore/0a6de0599691948f31d17f5968def6497111f59a3/com.kdbf.apk";
